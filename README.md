@@ -32,6 +32,5 @@ conda activate dl_assignment
 
 ## Usage 
 
-There are two projects included in this repository.  
-The usage instructions has been included in the `README.md` in the respective folders `question1` and `question2`.  
+There are two projects included in this repository, and the usage instructions has been included in the `README.md` in the folders `question1` and `question2`.  
 
