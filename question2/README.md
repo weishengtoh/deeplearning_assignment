@@ -9,7 +9,7 @@ The dataset has been predefined for the assignment, and the 5 pokemon to be iden
 - Mew Two
 - Charmander
 
-![dataset](/unrelated_imgs/dataset.png)
+![dataset](unrelated_imgs/dataset.png)
 
 The objective of the project is to perform a multiclass classification with the use of transfer learning, to identify which pokemon a particular image belongs to.  
 
