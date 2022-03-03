@@ -18,8 +18,7 @@ The objective of the project is to perform a multiclass classification with the 
 
 The project is meant to be executed entirely on a notebook, as it is meant only for experimentation and not production ready.  
 
-The project make use of TensorBoard extensively during the training process, to visualise the metrics and progress while the model is being trained.  
-Custom tensorflow components has also been defined to generate visualisations 
+The project make use of TensorBoard extensively during the training process, to visualise the metrics and progress while the model is being trained. Custom tensorflow components has also been defined to generate visualisations 
 
 To speed up the data pipeline, the data has been converted into `TFRecords`, and prefetching has been included to speed up the entire training process while data augmentation is being performed.   
 
